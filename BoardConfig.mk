@@ -48,7 +48,7 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 QCOM_FM_ENABLED := true
 
 # Kernel properties
-TARGET_KERNEL_CONFIG := lineage_zeal_defconfig
+TARGET_KERNEL_CONFIG := halium_zeal_defconfig
 
 # Vendor platform
 BOARD_VENDOR_PLATFORM := zeal
